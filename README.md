@@ -1,1 +1,11 @@
-# LAB-12
+### Day 12 — Lab 12: AI Presentation Creation and Professionalism Audit
+
+Day 12 — Lab 12 focuses on creating a professional, AI-assisted business presentation on **“Improving Passenger Experience at Airports Using Generative AI.”** The objective of the lab is to understand how Generative AI can support airport passenger-service activities while maintaining factual accuracy, responsible communication, human review, and professional presentation standards.
+
+The presentation is designed for an **airport management audience** and follows a structured 10-slide format covering passenger-service challenges, suitable Generative AI applications, an AI-assisted workflow, a flight-delay communication example, potential benefits, risks, human review, governance, implementation recommendations, and concluding sources. The central workflow follows the sequence **Verified Information → Structured Prompt → AI Draft → Human Review → Approval → Passenger Communication**, clearly showing that AI is used as a supporting capability rather than an independent decision-maker.
+
+The lab also includes a detailed **content-accuracy audit** to identify unsupported statistics, financial claims, passenger-satisfaction figures, operational information, policy statements, and regulatory claims. Airport-specific information is marked for verification instead of being presented as fact. The presentation also addresses important Generative AI risks, including hallucination or confabulation, privacy concerns, bias, outdated information, inconsistent outputs, and overreliance on automation.
+
+A **professionalism audit** evaluates slide structure, readability, consistency, visual relevance, tone, source inclusion, and overall business suitability. The visual audit ensures that AI-generated images do not contain misleading airport scenes, unrealistic aircraft, fake logos, unreadable text, or passenger information. A severity-versus-risk assessment is also used to prioritise corrections, particularly for high-risk issues such as incorrect operational information, privacy exposure, unsupported policy claims, and missing human approval.
+
+Overall, this lab demonstrates that creating an AI-generated presentation requires more than generating attractive slides. It requires **verification, critical evaluation, responsible AI use, visual quality control, governance, and human judgement** before the presentation is used for professional aviation-management purposes.
